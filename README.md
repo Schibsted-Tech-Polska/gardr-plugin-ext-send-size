@@ -22,7 +22,7 @@ In your ext bundle file:
 
 ## Usage
 
-This plugin uses (cross-domain-events)[https://github.com/finn-no/cross-domain-events] to communicate between frames with "plugin:send-size" namespace.
+This plugin uses [cross-domain-events](https://github.com/finn-no/cross-domain-events) to communicate between frames with "plugin:send-size" namespace.
 
 To trigger it in host:
 ```javascript
